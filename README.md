@@ -12,18 +12,19 @@ https://github.com/yupenghe/methylpy
 Mukamel lab: http://brainome.ucsd.edu
 
 
+<p>
     <h2> Data browsers:</h2>
                               <ul>
                                 <li><a href="http://brainome.ucsd.edu/howto_annoj.html" style="color: inherit; text-decoration: underline">User guide for the AnnoJ genome browser</a></li>
                                 <li><a href="http://brainome.ucsd.edu/annoj/brain_single_nuclei/index_mm.html" style="color: inherit; text-decoration: underline">Mouse genome browser (AnnoJ)</a></li>
                                 <li><a href="http://brainome.ucsd.edu/annoj/brain_single_nuclei/index_hs.html" style="color: inherit; text-decoration: underline">Human genome browser (AnnoJ)</a></li>
-<p>
                                 <li><a href="http://brainome.ucsd.edu/howto_tsne.html" style="color: inherit; text-decoration: underline">How to use the tSNE single cell browser</a></li>
                                 <li><a href="#tSNE" style="color: inherit; text-decoration: underline">Mouse and Human tSNE browser</a></li>
-
+</p>
 <p>
                                 <li>Data download (coming soon)</li>
                                 <ul>
                                   <li>GEO GSE97179 (to be released upon publication) </li>
                                 </ul>
                               </ul>
+</p>
