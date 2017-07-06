@@ -31,7 +31,7 @@ Mukamel lab: http://brainome.ucsd.edu
                       </ol>
 </p>
 
-                      <p class="large">
+                      <p>
                       Contact: emukamel [at] ucsd [dot] edu; mbehrens [at] salk [dot] edu; ecker [at] salk [dot] edu</p>
 
 
