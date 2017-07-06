@@ -39,7 +39,6 @@ Contact: emukamel [at] ucsd [dot] edu; mbehrens [at] salk [dot] edu; ecker [at] 
                                 <li><a href="http://brainome.ucsd.edu/howto_annoj.html" style="color: inherit; text-decoration: underline">User guide for the AnnoJ genome browser</a></li>
                                 <li><a href="http://brainome.ucsd.edu/annoj/brain_single_nuclei/index_mm.html" style="color: inherit; text-decoration: underline">Mouse genome browser (AnnoJ)</a></li>
                                 <li><a href="http://brainome.ucsd.edu/annoj/brain_single_nuclei/index_hs.html" style="color: inherit; text-decoration: underline">Human genome browser (AnnoJ)</a></li>
-                                <li><a href="http://brainome.ucsd.edu/howto_tsne.html" style="color: inherit; text-decoration: underline">How to use the tSNE single cell browser</a></li>
                                 <li><a href="#tSNE" style="color: inherit; text-decoration: underline">Mouse and Human tSNE browser</a></li>
                                 </ul>
 </p>
