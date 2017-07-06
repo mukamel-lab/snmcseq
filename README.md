@@ -1,12 +1,14 @@
 
 <p>
-<h1>Single Cell DNA Methylomes Reveal Distinct Neuronal Populations and
-        Conserved Regulatory Signatures in Mouse and Human Cortex</h1>
+<h1>Single Cell Methylomes Identify Neuronal Subtypes and Regulatory Elements in
+Mammalian Cortex</h1>
 
 <p class="large">
-        Chongyuan Luo<sup>1,2,&dagger;</sup>, Christopher L. Keown<sup>3,&dagger;</sup>, Laurie Kurihara<sup>4</sup>,
+Chongyuan Luo<sup>1,2,&dagger;</sup>, Christopher L. Keown<sup>3,&dagger;</sup>, Laurie Kurihara<sup>4</sup>,
         Jingtian Zhou<sup>1,5</sup>, Yupeng He<sup>1,5</sup>, Junhao Li<sup>3</sup>, Rosa Castanon<sup>1</sup>, Jacinta Lucero<sup>6</sup>, Joseph R. Nery<sup>1</sup>,
-        Brian Bui<sup>6</sup>, Timothy Harkins<sup>4</sup>, Eran A. Mukamel<sup>3,*</sup>, M. Margarita Behrens<sup>6,*</sup>, Joseph R. Ecker<sup>1,2,*<p>
+        Justin Sandoval<sup>1</sup>, Brian Bui<sup>6</sup>, Terrence J. Sejnowski<sup>2,6</sup>,
+        Timothy Harkins<sup>4</sup>, Eran A. Mukamel<sup>3,*</sup>, M. Margarita Behrens<sup>6,*</sup>, Joseph R. Ecker<sup>1,2,*<p>
+
 
 <p>
           <ol class="large">
