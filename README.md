@@ -1,15 +1,3 @@
-# snmcseq
-Tools for computational analysis of single nuclei methylC-Seq data, as described in Luo, Keown et al. (2017)
-
-Contact: 
-Chris Keown (ckeown @ ucsd.edu), Eran Mukamel (emukamel @ ucsd.edu)
-
-Mukamel lab: http://brainome.ucsd.edu
-
-See also: Methylpy 
-https://github.com/yupenghe/methylpy
-
-Mukamel lab: http://brainome.ucsd.edu
 
 <p>
 <h1>Single Cell DNA Methylomes Reveal Distinct Neuronal Populations and
@@ -54,3 +42,16 @@ Contact: emukamel [at] ucsd [dot] edu; mbehrens [at] salk [dot] edu; ecker [at] 
 <h2 id="tSNE">Mouse and human brain cell types defined by DNA methylation: tSNE browser</h2>
 <iframe src="http://brainome.ucsd.edu/scmdb/" width="1000px" height="2500px"></iframe>
 </p>
+
+# snmcseq
+Tools for computational analysis of single nuclei methylC-Seq data, as described in Luo, Keown et al. (2017)
+
+Contact: 
+Chris Keown (ckeown @ ucsd.edu), Eran Mukamel (emukamel @ ucsd.edu)
+
+Mukamel lab: http://brainome.ucsd.edu
+
+See also: Methylpy 
+https://github.com/yupenghe/methylpy
+
+Mukamel lab: http://brainome.ucsd.edu
