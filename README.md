@@ -28,3 +28,7 @@ Mukamel lab: http://brainome.ucsd.edu
                                 </ul>
                               </ul>
 </p>
+
+
+                        <h2 id="tSNE">Mouse and human brain cell types defined by DNA methylation: tSNE browser</h2>
+                        <iframe src="http://brainome.ucsd.edu/scmdb/" width="1000px" height="2500px"></iframe>
