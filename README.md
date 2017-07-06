@@ -11,6 +11,27 @@ https://github.com/yupenghe/methylpy
 
 Mukamel lab: http://brainome.ucsd.edu
 
+<p>
+<h1>Single Cell DNA Methylomes Reveal Distinct Neuronal Populations and
+        Conserved Regulatory Signatures in Mouse and Human Cortex</h1>
+
+<p class="large">
+        Chongyuan Luo<sup>1,2,&dagger;</sup>, Christopher L. Keown<sup>3,&dagger;</sup>, Laurie Kurihara<sup>4</sup>,
+        Jingtian Zhou<sup>1,5</sup>, Yupeng He<sup>1,5</sup>, Junhao Li<sup>3</sup>, Rosa Castanon<sup>1</sup>, Jacinta Lucero<sup>6</sup>, Joseph R. Nery<sup>1</sup>,
+        Brian Bui<sup>6</sup>, Timothy Harkins<sup>4</sup>, Eran A. Mukamel<sup>3,*</sup>, M. Margarita Behrens<sup>6,*</sup>, Joseph R. Ecker<sup>1,2,*<p>
+
+          <ol class="large">
+            <li> <a href="http://ecker.salk.edu/">Genomic Analysis Laboratory</a>, The Salk Institute for Biological Studies, 10010 North Torrey Pines Road, La Jolla, CA 92037, United States.
+              <li> Howard Hughes Medical Institute, The Salk Institute for Biological Studies, 10010 North Torrey Pines Road, La Jolla, CA 92037, United States.
+                <li> <a href="http://brainome.ucsd.edu">Department of Cognitive Science</a>, University of California, San Diego, La Jolla, CA 92037, United States.
+                  <li> <a href="https://swiftbiosci.com/">Swift Biosciences Inc</a>, 58 Parkland Plaza, Ste. 100, Ann Arbor, MI 48103, United States.
+                    <li> <a href="http://bioinformatics.ucsd.edu/">Bioinformatics Program</a>, University of California, San Diego, La Jolla, CA 92093, United States.
+                      <li> <a href="http://cnl.salk.edu/People/Person/?Person=1270">Computational Neurobiology Laboratory</a>, The Salk Institute for Biological Studies, La Jolla, CA 92037, United States.
+                      </ol>
+
+                      <p class="large">
+                      Contact: emukamel [at] ucsd [dot] edu; mbehrens [at] salk [dot] edu; ecker [at] salk [dot] edu<p>
+
 
 <p>
     <h2> Data browsers:</h2>
