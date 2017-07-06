@@ -31,12 +31,10 @@ Mukamel lab: http://brainome.ucsd.edu
                       </ol>
 </p>
 
-                      <p>
-                      Contact: emukamel [at] ucsd [dot] edu; mbehrens [at] salk [dot] edu; ecker [at] salk [dot] edu</p>
-
-
 <p>
-    <h2> Data browsers:</h2>
+Contact: emukamel [at] ucsd [dot] edu; mbehrens [at] salk [dot] edu; ecker [at] salk [dot] edu
+
+<h2> Data browsers:</h2>
                               <ul>
                                 <li><a href="http://brainome.ucsd.edu/howto_annoj.html" style="color: inherit; text-decoration: underline">User guide for the AnnoJ genome browser</a></li>
                                 <li><a href="http://brainome.ucsd.edu/annoj/brain_single_nuclei/index_mm.html" style="color: inherit; text-decoration: underline">Mouse genome browser (AnnoJ)</a></li>
