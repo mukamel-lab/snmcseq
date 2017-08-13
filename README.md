@@ -1,7 +1,15 @@
 
 <p>
-<h1>Single Cell Methylomes Identify Neuronal Subtypes and Regulatory Elements in
-Mammalian Cortex</h1>
+      <a href="http://science.sciencemag.org/content/357/6351/600.full">      <h1>Single Cell Methylomes Identify Neuronal Subtypes and Regulatory Elements in
+        Mammalian Cortex</h1>
+
+
+        <p class="large">
+          Science 357, 600 (2017)
+        </p></a>
+
+More information at the project website: <a href="http://brainome.org">http://brainome.org</a>
+
 
 <p class="large">
 Chongyuan Luo<sup>1,2,&dagger;</sup>, Christopher L. Keown<sup>3,&dagger;</sup>, Laurie Kurihara<sup>4</sup>,
@@ -33,9 +41,9 @@ Contact: emukamel [at] ucsd [dot] edu; mbehrens [at] salk [dot] edu; ecker [at] 
                                 </ul>
 </p>
 <p>
-<li>Data download (coming soon)</li>
+<li>Data download</li>
 <ul>
-<li>GEO GSE97179 (to be released upon publication) </li>
+<li>GEO GSE97179</li>
 </ul>
 </p>
 
