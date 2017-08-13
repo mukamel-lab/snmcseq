@@ -1,12 +1,9 @@
 
-<p>
-      <a href="http://science.sciencemag.org/content/357/6351/600.full">      <h1>Single Cell Methylomes Identify Neuronal Subtypes and Regulatory Elements in
+      <h1>Single Cell Methylomes Identify Neuronal Subtypes and Regulatory Elements in
         Mammalian Cortex</h1>
-
-
-        <p class="large">
-          Science 357, 600 (2017)
-        </p></a>
+        <p>
+          <a href="http://science.sciencemag.org/content/357/6351/600.full">Science 357, 600 (2017)</a>
+        </p>
 
 More information at the project website: <a href="http://brainome.org">http://brainome.org</a>
 
