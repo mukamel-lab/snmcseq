@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Directory containing allc files for each sample
+input_dir=$1 
+outdir=$2
+
+genebody=/cndd/projects/Public_Datasets/references/hg19/transcriptome/gencode.v19.annotation_genes_mypy.tsv
+
+for f in $input_dir/*_bismark; do
+
+ echo "Processing $f"
+
+ # Step 1: gene-body methylation
+ mc_gene_level.py $f $genebody $outdir
+
+done
