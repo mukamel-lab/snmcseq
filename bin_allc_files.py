@@ -17,6 +17,23 @@ allc_dir = '' # DIRECTORY WITH ALLC FILES IN IT
 
 
 
+def read_allc(fname, position_as_index=True, compressed=False):
+    # Read methylation data stored in an "allc" file
+    if compressed:
+        os.system("bgzip -cd " + fname + ".gz > " + fname)
+
+    if position_as_index == True:
+        df = pd.read_csv(fname, sep="\t", index_col=1, skiprows=1,
+                         names=['chr','pos','strand','context','mc','c','methylated'])
+    else:
+        df = pd.read_csv(fname, sep="\t", skiprows=1,
+                         names=['chr','pos','strand','context','mc','c','methylated'])
+
+    if compressed:
+        os.remove(fname)
+    return df
+
+
 def get_mCH_contexts():
     contexts = []
     for base1 in ['A','C','T']:
